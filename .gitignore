@@ -11,7 +11,7 @@ node_modules
 .angular
 package-lock.json
 yarn.lock
-
+*.mbtiles
 
 # Logs
 logs
